@@ -1,1 +1,1 @@
-# group1quiz.github.io
+# group1calculator.github.io
